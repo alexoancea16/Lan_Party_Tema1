@@ -18,6 +18,7 @@ Cerinte tehnice:
         - Header-ul date.h, acest fișier trebuie inclus în fișierul sursa principal "main.c" si contine declaratiile structurilor si functiilor utilizate în program.
         - Fisierele sursa "main.c", "liste.c", "sdate.c" si "tree.c", fișierul "main.c" contine functia principala (main) si apeleaza celelalte functii definite în fisierele "liste.c", "sdate.c", "tree.c". 
         - Fisierele de intrare/iesire: programul utilizează fisiere pentru citirea datelor de intrare si pentru scrierea rezultatelor.
+        - Fisierul c.in face referire la rezolvarea cerintlor acesta este important in cazul in care dorim sa utilizam un checker.
    2. Header-ul contine structurile necesare pentru a concentra si structura datele din fisirul "d.in".
    3. Fisierul "liste.c" contine functii specifice listelor simplu inlantuite (folosind diferite tipuri de date): addAtBeginning (adauga element la inceputul listei), addAtEnd (adauga element la finalul lisei), delete_elem (sterge element in functie de valoare), deleteList_Team (strege lista) sunt cateva exemple.
    4. In fisierul "sdate.c" se afla functiile necesare pentru implementarea operatiilor cu stive si cozi: createQueue (creare coada), enQueue (adaugare elemente in coada), deQueue (eliminare element din coada), deleteQueue (stergere coada), push (adaugare element in stiva), pop (sterge element din stiva), deleteStack (stergere stiva).
