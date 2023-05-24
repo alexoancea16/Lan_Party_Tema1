@@ -11,8 +11,8 @@ Problema: Facultatea de Automatica si Calculatoare prin LSAC organizeaza in fiec
 
 Cerinte tehnice:
 
-  In realizarea proiectului s-a utilizat C ca limbaj de programare, astfel una dintre cerintele tehnice este  existenta unui compilator C. Un compilator popular si larg utilizat este GCC (GNU Compiler Collection), dar exista si alte optiuni disponibile pentru diferite sisteme de operare, cum ar fi Microsoft Visual C++ Compiler pentru Windows sau platforma de developare CodeBlocks (avand ca si compilator GNU GCC).
-  Cerinte de sitem: Windows sau Linux ca sistem de operare.
+  - In realizarea proiectului s-a utilizat C ca limbaj de programare, astfel una dintre cerintele tehnice este  existenta unui compilator C. Un compilator popular si larg utilizat este GCC (GNU Compiler Collection), dar exista si alte optiuni disponibile pentru diferite sisteme de operare, cum ar fi Microsoft Visual C++ Compiler pentru Windows sau platforma de developare CodeBlocks (avand ca si compilator GNU GCC).
+  - Cerinte de sitem: Windows sau Linux ca sistem de operare.
  
  Detalii tehnice:
  
