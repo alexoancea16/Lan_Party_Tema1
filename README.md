@@ -33,7 +33,7 @@ Cerinte tehnice:
    11. Pentru crearea arborelul de tip AVL s-a folosit "extract_node" care nu este altceva decat o parcurgere in inordine a arborelui introducand pe rand cate un nod in AVL cu functia "insert_avl". In functia "insert_avl" au fost luate toate cazurile particulare realizandu-se diferite rotatii necesare pentru echilibrarea arborelui. Suplimentar se adauga structura Node_avl asemanatoare cu Node_tree, dar care are in plus inaltime nodului.
    12. Afisare in fisier a rezultatelor se face prin functiile de la inceputul fisierului "main.c" respectand cerintele impuse: "print_team", "print_fight", "print_winner", "print_top_team", "print_level".
    13. Pe parcursul programului au fost utilizate, de asemenea, functii pentru testarea diferitelor operatii cum ar fi: "open_fis", "isEmpty".
-   14. La finalul programului a fost eliminata memoria ocupata in heap, fiind vorba de alocae dinamica, cu functiile "deleteList_Team" si "deleteList_Top".
+   14. La finalul programului a fost eliminata memoria ocupata in heap, fiind vorba de alocare dinamica, cu functiile "deleteList_Team" si "deleteList_Top".
    
 Utilizarea programului: 
 
