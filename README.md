@@ -1,9 +1,9 @@
 # Lan_Party_Tema1
 Tema 1 Proiectarea Algoritmilor - Lan Party - 
 
-Proiect realizat de: Oancea Constantin-Alexandru
-Student la: Facultatea de Automatica si Calculatoare (UPB), anul 1
-Data: 24.05.2023
+- Proiect realizat de: Oancea Constantin-Alexandru
+- Student la: Facultatea de Automatica si Calculatoare (UPB), anul 1
+- Data: 24.05.2023
 
 Cerinta completa a temei poate fi accesata la adresa https://ocw.cs.pub.ro/courses/sda-ab/tema1
 
