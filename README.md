@@ -17,7 +17,7 @@ Cerinte tehnice:
  Detalii tehnice:
  
    1. Programul este alcatuit din mai multe fisiere:
-        - Header-ul date.h, acest fișier trebuie inclus în fișierul sursa principal "main.c" si contine declaratiile structurilor si functiilor utilizate în program.
+        - Header-ul "date.h", acest fișier trebuie inclus în fișierul sursa principal "main.c" si contine declaratiile structurilor si functiilor utilizate în program.
         - Fisierele sursa "main.c", "liste.c", "sdate.c" si "tree.c", fișierul "main.c" contine functia principala (main) si apeleaza celelalte functii definite în fisierele "liste.c", "sdate.c", "tree.c". 
         - Fisierele de intrare/iesire: programul utilizează fisiere pentru citirea datelor de intrare si pentru scrierea rezultatelor.
         - Fisierul c.in face referire la rezolvarea cerintlor acesta este important in cazul in care dorim sa utilizam un checker.
