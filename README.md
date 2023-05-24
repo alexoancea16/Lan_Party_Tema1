@@ -10,10 +10,12 @@ Cerinta completa a temei poate fi accesata la adresa https://ocw.cs.pub.ro/cours
 Problema: Facultatea de Automatica si Calculatoare prin LSAC organizeaza in fiecare semestru un LAN Party la care participa toti studentii care vor sa isi testeze abilitatile la un anumit joc. Se doreste realizarea unei solutii software (program executabil) ce poate automatiza acest proces.
 
 Cerinte tehnice:
+
   In realizarea proiectului s-a utilizat C ca limbaj de programare, astfel una dintre cerintele tehnice este  existenta unui compilator C. Un compilator popular si larg utilizat este GCC (GNU Compiler Collection), dar exista si alte optiuni disponibile pentru diferite sisteme de operare, cum ar fi Microsoft Visual C++ Compiler pentru Windows sau platforma de developare CodeBlocks (avand ca si compilator GNU GCC).
   Cerinte de sitem: Windows sau Linux ca sistem de operare.
  
- Detalii tehnice: 
+ Detalii tehnice:
+ 
    1. Programul este alcatuit din mai multe fisiere:
         - Header-ul date.h, acest fișier trebuie inclus în fișierul sursa principal "main.c" si contine declaratiile structurilor si functiilor utilizate în program.
         - Fisierele sursa "main.c", "liste.c", "sdate.c" si "tree.c", fișierul "main.c" contine functia principala (main) si apeleaza celelalte functii definite în fisierele "liste.c", "sdate.c", "tree.c". 
@@ -34,6 +36,7 @@ Cerinte tehnice:
    14. La finalul programului a fost eliminata memoria ocupata in heap, fiind vorba de alocae dinamica, cu functiile "deleteList_Team" si "deleteList_Top".
    
 Utilizarea programului: 
+
 - se introduc datele in fisierul d.in conform cerintelor, iar rezulatele vor fi vizibile in fisierul r.out 
 - utilitatea si functionalitatea programului poate fi vizualizata cu ajutorul instalarii checkeului aflat in cerinta temei.
     
